@@ -1,0 +1,16 @@
+c:\users\murilo\documents\visual studio 2013\Projects\carrinhoDeCompras\carrinhoDeCompras\bin\Debug\carrinhoDeCompras.exe.config
+c:\users\murilo\documents\visual studio 2013\Projects\carrinhoDeCompras\carrinhoDeCompras\bin\Debug\carrinhoDeCompras.exe
+c:\users\murilo\documents\visual studio 2013\Projects\carrinhoDeCompras\carrinhoDeCompras\bin\Debug\carrinhoDeCompras.pdb
+c:\users\murilo\documents\visual studio 2013\Projects\carrinhoDeCompras\carrinhoDeCompras\obj\Debug\carrinhoDeCompras.csprojResolveAssemblyReference.cache
+c:\users\murilo\documents\visual studio 2013\Projects\carrinhoDeCompras\carrinhoDeCompras\obj\Debug\carrinhoDeCompras.Properties.Resources.resources
+c:\users\murilo\documents\visual studio 2013\Projects\carrinhoDeCompras\carrinhoDeCompras\obj\Debug\carrinhoDeCompras.csproj.GenerateResource.Cache
+c:\users\murilo\documents\visual studio 2013\Projects\carrinhoDeCompras\carrinhoDeCompras\obj\Debug\carrinhoDeCompras.exe
+c:\users\murilo\documents\visual studio 2013\Projects\carrinhoDeCompras\carrinhoDeCompras\obj\Debug\carrinhoDeCompras.pdb
+C:\Users\Murilo\documents\visual studio 2013\Projects\carrinhoDeCompras\carrinhoDeCompras\obj\Debug\carrinhoDeCompras.frmCarrinho.resources
+C:\Users\Murilo\documents\visual studio 2013\Projects\carrinhoDeCompras\carrinhoDeCompras\obj\Debug\carrinhoDeCompras.frmItem.resources
+C:\Users\Murilo\documents\visual studio 2013\Projects\carrinhoDeCompras\carrinhoDeCompras\obj\Debug\carrinhoDeCompras.frmLoja.resources
+C:\Users\Murilo\documents\visual studio 2013\Projects\carrinhoDeCompras\carrinhoDeCompras\obj\Debug\carrinhoDeCompras.frmBoleto.resources
+C:\Users\Murilo\documents\visual studio 2013\Projects\carrinhoDeCompras\carrinhoDeCompras\bin\Debug\carrinhoDeCompras.exe.manifest
+C:\Users\Murilo\documents\visual studio 2013\Projects\carrinhoDeCompras\carrinhoDeCompras\bin\Debug\carrinhoDeCompras.application
+C:\Users\Murilo\documents\visual studio 2013\Projects\carrinhoDeCompras\carrinhoDeCompras\obj\Debug\carrinhoDeCompras.exe.manifest
+C:\Users\Murilo\documents\visual studio 2013\Projects\carrinhoDeCompras\carrinhoDeCompras\obj\Debug\carrinhoDeCompras.application
